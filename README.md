@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **SQL, python , Android Development**
+- 🌱 I’m currently learning **SQL, DSA , Data Analysis**
 
 - 📫 How to reach me **adityavandu@gmail.com**
 
