@@ -31,7 +31,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align = "left">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySql">
+<img src="https://img.shields.io/badge/Sql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="Sql">
+<img src="https://img.shields.io/badge/PowerBI-blue" alt="PowerBI">
+<img src="https://img.shields.io/badge/Jupyter-green" alt="Jupyter">
+<img src="https://img.shields.io/badge/MS SQL Server-red" alt="MS Sql Server">
+<img src="https://img.shields.io/badge/Machine Learning-blue" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Data Analysis and Visualisation-purple" alt="Data Analysis">
 <img src="https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639" alt="Android">
 </p>
 
