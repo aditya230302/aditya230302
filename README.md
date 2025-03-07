@@ -33,12 +33,12 @@
 -  Hackerrank : 5 ⭐ SQL | 4 ⭐ Python
 -  Microsoft PowerBI Badge : https://learn.microsoft.com/api/achievements/share/en-us/AdityaSharma-7731/VBW558DM?sharingId=D06A74566C1F8FC8
 -  Certification in :
-  - Data Science | Intellipaat
-  - SQL Developer | Intellipaat
-  - MS SQL Developer | Intellipaat
-  - Power BI | Intellipaat
-  - DBMS 1 | Infosys Spring Board
-  - Python Data Structures and Algorithms | IIT Madras (NPTEL)
+   - Data Science | Intellipaat
+   - SQL Developer | Intellipaat
+   - MS SQL Developer | Intellipaat
+   - Power BI | Intellipaat
+   - DBMS 1 | Infosys Spring Board
+   - Python Data Structures and Algorithms | IIT Madras (NPTEL)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
