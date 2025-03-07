@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm Aditya </h1>
 
 <p  align="center">
@@ -9,15 +8,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya230302&label=Profile%20views&color=0e75b6&style=flat" alt="aditya230302" /> </p>
 
-<h3 align="center">Data Analyst | SQL Developer | ML Engineer | PowerBI Developer</h3>
+<h3 align="center">Data Scientist | Data Analyst | SQL Developer | ML Engineer | AI Developer | PowerBI Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
-- 📫 How to reach me **adityavandu@gmail.com**
+📫 How to reach me
+- Email : **adityavandu@gmail.com**
+- Linkedin : **in/aditya230302**
 
-- ⚡ Fun fact **I like reading.**
+- Real World Data sets were used in the following Projects:
+  - Census Income
+  - Analysing Naming trends
+  - Heart Disease Prediction
+  - Covid 19 Forecast
+- Recomendation Engines :
+  - Netflix_Recomendation_Engine
+- Time Series Analysis and Forecast :
+  - Walmart Sales Forecast
+  - Flight Booking Price Prediction
+  - Covid 19 (using facebook prophet libraries)
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
