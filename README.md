@@ -4,10 +4,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
   
 
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya230302&label=Profile%20views&color=0e75b6&style=flat" alt="aditya230302" /> </p>
-
 <h3 align="center">Data Scientist | Data Analyst | SQL Developer | ML Engineer | AI Developer | PowerBI Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
