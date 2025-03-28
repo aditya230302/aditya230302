@@ -15,7 +15,7 @@
 - Linkedin : **in/aditya230302**
 
 - Real World Data sets were used in the following Projects:
-  - Census Income
+  - Census Income Prediction
   - Analysing Naming trends
   - Heart Disease Prediction
   - Covid 19 Forecast
@@ -25,6 +25,15 @@
   - Walmart Sales Forecast
   - Flight Booking Price Prediction
   - Covid 19 (using facebook prophet libraries)
+- Other Projects:
+  - HR_Analytics
+  - Revenue Prediction
+  - Customer Churn
+  - Power BI project - analyze the trend of admissions into state universities
+  - SQL Bank Case study
+  - SQL Case study 1 - about marketing, sales analysis
+- you can find all these projects in my repository
+
 
 -  Hackerrank : 5 ⭐ SQL | 4 ⭐ Python
 -  Microsoft PowerBI Badge : https://learn.microsoft.com/api/achievements/share/en-us/AdityaSharma-7731/VBW558DM?sharingId=D06A74566C1F8FC8
