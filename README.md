@@ -19,6 +19,7 @@
   - Analysing Naming trends
   - Heart Disease Prediction
   - Covid 19 Forecast
+  - PCA and LDA on Digits dataset
 - Recomendation Engines :
   - Netflix_Recomendation_Engine
 - Time Series Analysis and Forecast :
