@@ -20,6 +20,9 @@
   - Heart Disease Prediction
   - Covid 19 Forecast
   - PCA and LDA on Digits dataset
+  - UCI_Wine_Dataset_Classification_using_Random_Forest
+  - MNIST_Handwritten_Digits_Recognition
+  - MLP_Iris_Dataset
 - Recomendation Engines :
   - Netflix_Recomendation_Engine
 - Time Series Analysis and Forecast :
