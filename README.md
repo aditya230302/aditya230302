@@ -12,30 +12,32 @@
 
 📫 How to reach me
 - Email : **aditya.s230302@gmail.com**
-- Linkedin : **in/aditya230302**
+- Linkedin : [**in/aditya230302**](https://www.linkedin.com/in/aditya230302/?originalSubdomain=in)
 
 - Real World Data sets were used in the following Projects:
-  - Census Income Prediction
-  - Analysing Naming trends
-  - Heart Disease Prediction
-  - Covid 19 Forecast
-  - PCA and LDA on Digits dataset
-  - UCI_Wine_Dataset_Classification_using_Random_Forest
-  - MNIST_Handwritten_Digits_Recognition
-  - MLP_Iris_Dataset
+  - [Census Income Prediction](https://github.com/aditya230302/Census_Income_Prediction)
+  - [Analysing Naming trends](https://github.com/aditya230302/Analysing_Naming_Trends)
+  - [Heart Disease Prediction](https://github.com/aditya230302/Heart_Disease_Prediction)
+  - [Covid 19 Forecast](https://github.com/aditya230302/Covid_19_Forecast)
+  - [PCA and LDA on Digits dataset](https://github.com/aditya230302/PCA_and_LDA_on_Digits_dataset)
+  - [UCI_Wine_Dataset_Classification_using_Random_Forest](https://github.com/aditya230302/UCI_Wine_Dataset_Classification_using_Random_Forest)
+  - [MNIST_Handwritten_Digits_Recognition](https://github.com/aditya230302/MNIST_Handwritten_Digits_Recognition)
+  - [MLP_Iris_Dataset](https://github.com/aditya230302/MLP_Iris_Dataset)
 - Recomendation Engines :
-  - Netflix_Recomendation_Engine
+  - [Netflix_Recomendation_Engine](https://github.com/aditya230302/Netflix_Recommendation_Engine)
 - Time Series Analysis and Forecast :
-  - Walmart Sales Forecast
-  - Flight Booking Price Prediction
-  - Covid 19 (using facebook prophet libraries)
+  - [Walmart Sales Forecast](https://github.com/aditya230302/Walmart_Sales_Forcast)
+  - [Covid 19 Forecast (using facebook prophet libraries)](https://github.com/aditya230302/Covid_19_Forecast)
+  - [Time_Series_AirPassangers_Forecast](https://github.com/aditya230302/Time_Series_AirPassangers_Forecast)
 - Other Projects:
-  - HR_Analytics
-  - Revenue Prediction
-  - Customer Churn
-  - Power BI project - analyze the trend of admissions into state universities
-  - SQL Bank Case study
-  - SQL Case study 1 - about marketing, sales analysis
+  - [HR_Analytics](https://github.com/aditya230302/HR_Analytics)
+  - [Revenue Prediction](https://github.com/aditya230302/Revenue_Prediction)
+  - [Flight Booking Price Prediction](https://github.com/aditya230302/Flight_Booking_Price_Prediction)
+  - [Customer Churn](https://github.com/aditya230302/Customer_Churn_Project)
+  - [Power BI project - analyze the trend of admissions into state universities](https://github.com/aditya230302/PowerBi-Project)
+  - [SQL Bank Case study](https://github.com/aditya230302/SQL_BANK_CASE_STUDY)
+  - [SQL Case study 1 - about marketing, sales analysis](https://github.com/aditya230302/SQL_CASE_STUDY_1)
+  - [US Honey Case Study](https://github.com/aditya230302/US_Honey_Case_Study)
 - you can find all these projects in my repository
 
 
