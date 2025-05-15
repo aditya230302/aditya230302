@@ -23,12 +23,16 @@
   - [UCI_Wine_Dataset_Classification_using_Random_Forest](https://github.com/aditya230302/UCI_Wine_Dataset_Classification_using_Random_Forest)
   - [MNIST_Handwritten_Digits_Recognition](https://github.com/aditya230302/MNIST_Handwritten_Digits_Recognition)
   - [MLP_Iris_Dataset](https://github.com/aditya230302/MLP_Iris_Dataset)
+  - [Youtube_Statistics_PowerBI_Project](https://github.com/aditya230302/Youtube_Statistics_PowerBI_Project)
+
 - Recomendation Engines :
   - [Netflix_Recomendation_Engine](https://github.com/aditya230302/Netflix_Recommendation_Engine)
+    
 - Time Series Analysis and Forecast :
   - [Walmart Sales Forecast](https://github.com/aditya230302/Walmart_Sales_Forcast)
   - [Covid 19 Forecast (using facebook prophet libraries)](https://github.com/aditya230302/Covid_19_Forecast)
   - [Time_Series_AirPassangers_Forecast](https://github.com/aditya230302/Time_Series_AirPassangers_Forecast)
+    
 - Other Projects:
   - [HR_Analytics](https://github.com/aditya230302/HR_Analytics)
   - [Revenue Prediction](https://github.com/aditya230302/Revenue_Prediction)
@@ -38,7 +42,7 @@
   - [SQL Bank Case study](https://github.com/aditya230302/SQL_BANK_CASE_STUDY)
   - [SQL Case study 1 - about marketing, sales analysis](https://github.com/aditya230302/SQL_CASE_STUDY_1)
   - [US Honey Case Study](https://github.com/aditya230302/US_Honey_Case_Study)
-- you can find all these projects in my repository
+  - you can find all these projects in my repository
 
 
 -  Hackerrank : 5 ⭐ SQL | 4 ⭐ Python
