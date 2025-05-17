@@ -15,6 +15,7 @@
 - Linkedin : [**in/aditya230302**](https://www.linkedin.com/in/aditya230302/?originalSubdomain=in)
 
 - Real World Data sets were used in the following Projects:
+  - [CIFAR-10 CNN Model](https://github.com/aditya230302/CIFAR_10_CNN_Model)
   - [Census Income Prediction](https://github.com/aditya230302/Census_Income_Prediction)
   - [Analysing Naming trends](https://github.com/aditya230302/Analysing_Naming_Trends)
   - [Heart Disease Prediction](https://github.com/aditya230302/Heart_Disease_Prediction)
