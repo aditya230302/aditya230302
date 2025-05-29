@@ -35,6 +35,8 @@
   - [Time_Series_AirPassangers_Forecast](https://github.com/aditya230302/Time_Series_AirPassangers_Forecast)
     
 - Other Projects:
+  - [Credit Score Classification](https://github.com/aditya230302/Credit_Score_Classification)
+  - [Credit Card Fraud Detection](https://github.com/aditya230302/Credit_Card_Fraud_Detection)
   - [HR_Analytics](https://github.com/aditya230302/HR_Analytics)
   - [Revenue Prediction](https://github.com/aditya230302/Revenue_Prediction)
   - [Flight Booking Price Prediction](https://github.com/aditya230302/Flight_Booking_Price_Prediction)
