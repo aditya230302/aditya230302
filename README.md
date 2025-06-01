@@ -15,6 +15,7 @@
 - Linkedin : [**in/aditya230302**](https://www.linkedin.com/in/aditya230302/?originalSubdomain=in)
 
 - Real World Data sets were used in the following Projects:
+  - [Twitter_rebranded_as_X_US_Airlines_Sentiment_Prediction](https://github.com/aditya230302/Twitter_rebranded_as_X_US_Airlines_Sentiment_Prediction)
   - [Cats and Dogs Image Classification](https://github.com/aditya230302/Cats_vs_Dogs_Image_Classification)
   - [CIFAR-10 CNN Model](https://github.com/aditya230302/CIFAR_10_CNN_Model)
   - [Census Income Prediction](https://github.com/aditya230302/Census_Income_Prediction)
