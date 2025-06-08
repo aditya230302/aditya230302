@@ -15,7 +15,7 @@
 - Linkedin : [**in/aditya230302**](https://www.linkedin.com/in/aditya230302/?originalSubdomain=in)
 
 - Real World Data sets were used in the following Projects:
-  - [IMBD_Sentiment_Prediction_Using_RNN_and_LSTM](https://github.com/aditya230302/IMBD_Sentiment_Prediction_Using_RNN_and_LSTM)
+  - [IMBD_Sentiment_Analysis_Using_RNN_and_LSTM](https://github.com/aditya230302/IMBD_Sentiment_Analysis_Using_RNN_and_LSTM)
   - [Fashion_MNIST](https://github.com/aditya230302/Fashion_MNIST_Classification/tree/main)
   - [Tesla Stock Price Prediction using Simple RNN and LSTM](https://github.com/aditya230302/Tesla_Stock_Price_Prediction)
   - [Twitter_rebranded_as_X_US_Airlines_Sentiment_Prediction](https://github.com/aditya230302/Twitter_rebranded_as_X_US_Airlines_Sentiment_Prediction)
