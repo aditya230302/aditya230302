@@ -31,6 +31,8 @@
   - [MLP_Iris_Dataset](https://github.com/aditya230302/MLP_Iris_Dataset)
   - [Youtube_Statistics_PowerBI_Project](https://github.com/aditya230302/Youtube_Statistics_PowerBI_Project)
 
+- GEN AI:
+  - [GEN_AI_Fact_Checker_and_PDF_based_RAG](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG)
 - Recomendation Engines :
   - [Netflix_Recomendation_Engine](https://github.com/aditya230302/Netflix_Recommendation_Engine)
     
