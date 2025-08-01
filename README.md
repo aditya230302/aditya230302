@@ -17,7 +17,6 @@
 - Real World Data sets were used in the following Projects:
   - [IMBD_Sentiment_Analysis_Using_RNN_and_LSTM](https://github.com/aditya230302/IMBD_Sentiment_Analysis_Using_RNN_and_LSTM)
   - [Fashion_MNIST](https://github.com/aditya230302/Fashion_MNIST_Classification/tree/main)
-  - [Tesla Stock Price Prediction using Simple RNN and LSTM](https://github.com/aditya230302/Tesla_Stock_Price_Prediction)
   - [Twitter_rebranded_as_X_US_Airlines_Sentiment_Prediction](https://github.com/aditya230302/Twitter_rebranded_as_X_US_Airlines_Sentiment_Prediction)
   - [Cats and Dogs Image Classification](https://github.com/aditya230302/Cats_vs_Dogs_Image_Classification)
   - [CIFAR-10 CNN Model](https://github.com/aditya230302/CIFAR_10_CNN_Model)
@@ -33,10 +32,12 @@
 
 - GEN AI:
   - [GEN_AI_Fact_Checker_and_PDF_based_RAG](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG)
+    
 - Recomendation Engines :
   - [Netflix_Recomendation_Engine](https://github.com/aditya230302/Netflix_Recommendation_Engine)
     
 - Time Series Analysis and Forecast :
+  - [Tesla Stock Price Prediction using Simple RNN and LSTM](https://github.com/aditya230302/Tesla_Stock_Price_Prediction)
   - [Walmart Sales Forecast](https://github.com/aditya230302/Walmart_Sales_Forcast)
   - [Covid 19 Forecast (using facebook prophet libraries)](https://github.com/aditya230302/Covid_19_Forecast)
   - [Time_Series_AirPassangers_Forecast](https://github.com/aditya230302/Time_Series_AirPassangers_Forecast)
