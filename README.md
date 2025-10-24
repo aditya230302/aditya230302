@@ -32,6 +32,9 @@
 
 - GEN AI:
   - [GEN_AI_Fact_Checker_and_PDF_based_RAG](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG)
+
+- Agentic AI
+  - [Currency Converter Agent](https://github.com/aditya230302/Currency_Converter_Agentic_AI/blob/main/Agentic_AI_Currency_Converter_Project.ipynb)
     
 - Recomendation Engines :
   - [Netflix_Recomendation_Engine](https://github.com/aditya230302/Netflix_Recommendation_Engine)
@@ -53,12 +56,14 @@
   - [SQL Bank Case study](https://github.com/aditya230302/SQL_BANK_CASE_STUDY)
   - [SQL Case study 1 - about marketing, sales analysis](https://github.com/aditya230302/SQL_CASE_STUDY_1)
   - [US Honey Case Study](https://github.com/aditya230302/US_Honey_Case_Study)
-  - you can find all these projects in my repository
+
+- you can find all these projects in my repository
 
 
--  Hackerrank : 5 ⭐ SQL | 4 ⭐ Python
+-  Hackerrank : 5 ⭐ SQL | 4 ⭐ Python | Certified in SQL (Basic,Intermediate,Advanced)
 -  Microsoft PowerBI Badge : https://learn.microsoft.com/api/achievements/share/en-us/AdityaSharma-7731/VBW558DM?sharingId=D06A74566C1F8FC8
 -  Certification in :
+   - Artificial Intelligence | Intellipaat
    - Data Science | Intellipaat
    - SQL Developer | Intellipaat
    - MS SQL Developer | Intellipaat
