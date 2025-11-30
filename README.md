@@ -31,6 +31,9 @@
 - GEN AI:
   - [GEN_AI_Fact_Checker_and_PDF_based_RAG](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG)
 
+- ChatBot ( NLP as I used pre trained sentence transformer, Gen AI as there is also a RAG based chatbot inside)
+  - [Link](https://github.com/aditya230302/Chat_Bot/tree/main)
+
 - Agentic AI
   - [Currency Converter Agent](https://github.com/aditya230302/Currency_Converter_Agentic_AI/blob/main/Agentic_AI_Currency_Converter_Project.ipynb)
     
