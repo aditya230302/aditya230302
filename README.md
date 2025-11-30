@@ -6,8 +6,6 @@
 
 <h3 align="center">Data Scientist | Data Analyst | SQL Developer | ML Engineer | AI Developer | PowerBI Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 
 📫 How to reach me
