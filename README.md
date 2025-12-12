@@ -31,7 +31,7 @@
 - GEN AI:
   - [GEN_AI_Fact_Checker](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG/blob/main/Fact_Checker.ipynb)
   - [Private Document-QA System using RAG + Local LLaMA + LangChain](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG/blob/main/LangChain_%2B_LLaMA_%2B_PDF_based_RAG.ipynb)
-  - [Travel Itineray Planner](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG/blob/main/Travel_Buddy.ipynb)
+  - [Intelligent Travel Itinerary Generator (Gemini + Tavily API)](https://github.com/aditya230302/GEN_AI_Fact_Checker_and_PDF_based_RAG/blob/main/Travel_Buddy.ipynb)
 
 - ChatBot ( NLP as I used pre trained sentence transformer, Gen AI as there is also a RAG based chatbot inside)
   - [Link](https://github.com/aditya230302/Chat_Bot/tree/main)
