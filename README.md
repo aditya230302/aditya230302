@@ -66,6 +66,7 @@
 -  Hackerrank : 5 ⭐ SQL | 4 ⭐ Python | Certified in SQL (Basic,Intermediate,Advanced)
 -  Microsoft PowerBI Badge : https://learn.microsoft.com/api/achievements/share/en-us/AdityaSharma-7731/VBW558DM?sharingId=D06A74566C1F8FC8
 -  Certification in :
+   - Executive Post Graduate Certification in Data Science and Artificial Intelligense | IIT Roorkee
    - Artificial Intelligence | Intellipaat
    - Data Science | Intellipaat
    - SQL Developer | Intellipaat
